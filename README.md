@@ -1,4 +1,4 @@
-Udacity P8
+Udacity P6
 
 #### Part 1: 优化 index.html 的 PageSpeed Insights 得分
 - 首先先阅读评审要求
